@@ -14,3 +14,14 @@ footer {
     bottom: 0;
     width: 100%;
 }
+header {
+    background-color: white;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
